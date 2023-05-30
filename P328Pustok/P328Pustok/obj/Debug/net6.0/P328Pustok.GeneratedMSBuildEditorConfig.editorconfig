@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P328Pustok
+build_property.RootNamespace = P328Pustok
+build_property.ProjectDir = C:\Users\elchin.CODE\Desktop\CodeLesson\24. 30-05-2023\P328Pustok\P328Pustok\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\elchin.CODE\Desktop\CodeLesson\24. 30-05-2023\P328Pustok\P328Pustok
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEF1dGhvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEF1dGhvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEJvb2tcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEJvb2tcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEJvb2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Genre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEdlbnJlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Genre/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEdlbnJlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEdlbnJlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEdlbnJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Order/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXE9yZGVyXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXE9yZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNsaWRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Slider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNsaWRlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNsaWRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Areas/Manage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Account/Resetpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldHBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Book/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/Components/NavGenres/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2R2VucmVzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_BasketPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYXNrZXRQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_BookCommentFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb29rQ29tbWVudEZvcm1QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_BookModalPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb29rTW9kYWxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_BookTabContentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb29rVGFiQ29udGVudFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_CheckoutFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DaGVja291dEZvcm1QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_ProfileEditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9maWxlRWRpdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elchin.CODE/Desktop/CodeLesson/24. 30-05-2023/P328Pustok/P328Pustok/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f302qnvx61
